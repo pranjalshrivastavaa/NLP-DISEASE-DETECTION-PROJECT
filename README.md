@@ -28,6 +28,3 @@ We use BioBERT (a domain-specific BERT model pre-trained on large-scale biomedic
 🛠️ Installation
 git clone https://github.com/yourusername/biobert-disease-detection.git
 cd biobert-disease-detection
-
-# Install dependencies
-pip install -r requirements.txt
